@@ -21,6 +21,12 @@ The user now has to try to solve the Sudoku. The timer displayed at the bottom o
 
 How to run the program:
 
-Have Turbo C++ version 3.0 installed; compile and run the file to get going! 
+Have Turbo C++ version 3.0 installed; compile and run the file SudofuF.cpp (save graph.cpp in the same directory) to get going! 
+
+Files in the Repository: 
+
+WS1, WS2 show how the welcome screens look
+P1, P2 show how the game looks
+SudokuF.cpp is the main file that needs to be run, and graph.cpp is a resource file
 
 
