@@ -1,4 +1,4 @@
-THEULTIMATESUDO-quiz
+theUltimateSudoqu_iz
 ====================
 
 A Sudoku game that generates solvable Sudoku boards, and provides an interactive user interface that guides the user towards the solution, along with a timer and scores and varying levels based on user proficiency 
