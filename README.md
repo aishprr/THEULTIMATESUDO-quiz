@@ -27,6 +27,6 @@ Files in the Repository:
 
 WS1, WS2 show how the welcome screens look
 P1, P2 show how the game looks
-SudokuF.cpp is the main file that needs to be run, and graph.cpp is a resource file
+SudokuF.cpp is the main file that needs to be run, and graph.cpp is a graphics resource file
 
 
