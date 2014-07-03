@@ -16,3 +16,9 @@ How to Play this Game :
 The opening page displays a button that allows the user to start playing the game. On clicking outside the displayed box, the user can directly exit the game without playing. When the user clicks on the button ENTER GAME, three difficulty levels appear and the user is allowed to choose his/her preferred level. 
 The first level displays a question which provides 27 values to the user and the rest empty for the user to solve. Similarly, the second displays 26 values and the third 25. 
 The user now has to try to solve the Sudoku. The timer displayed at the bottom of the screen allows the user to find out how much time he/she has taken to solve the Sudoku. At any stage, the player may decide to quit the game, or check his or her answer. If the user clicks on END GAME, the right solution will be displayed and the user will be given options to either leave the game completely or play the game again. If the user clicks on CHECK MY ANSWER, the user’s entries are compared with the correct solution and if it is right, the user is told so. If the final solution given by the user turns out to be wrong, again, the correct solution is displayed and the user is allowed to either play the game again or leave. If the user’s solution is right, an appropriate message is displayed, and then the user can decide to move onto a new question or exit the game.
+
+How to run the orogram:
+
+Have Turbo C++ version 3.0 installed; compile and run the file to get going! 
+
+
